@@ -1,7 +1,6 @@
-# EDA Project
+# EDA Project: King County House Sales 2014-2015
 
 This repo contains the results of the EDA project in the neuefische Data Science, Machine Learning & AI Bootcamp.
-
 
 
 ## Environment Setup
