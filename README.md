@@ -1,7 +1,10 @@
 # EDA Project: King County House Sales 2014-2015
 
-This repo contains the results of the EDA project in the neuefische Data Science, Machine Learning & AI Bootcamp.
+This repo contains the results of the EDA project in the neuefische Data Science, Machine Learning & AI Bootcamp. There are 3 main files:
 
+1. The EDA notebook itself: https://github.com/jottemka/eda_neuefische/blob/82a769aa8193682e45b5cc63c326e136f3ea55d0/eda_king_county.ipynb
+2. A notebook that was used to fetch the data from an SQL database: https://github.com/jottemka/eda_neuefische/blob/09af8b0bf1ddff77cf8cf1addd63d858c881078b/fetching_data.ipynb
+3. A presentation notebook that was used to generate the corresponding Jupyter slides: https://github.com/jottemka/eda_neuefische/blob/ef8f00f8dba6c665a72b53648f7c0915470c23d3/presentation.ipynb
 
 ## Environment Setup
 This repo contains a requirements.txt file with a list of all the packages and dependencies you will need.
