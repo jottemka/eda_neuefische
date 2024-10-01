@@ -1,9 +1,34 @@
 # EDA Project: King County House Sales 2014-2015
 
-This repo contains the results of the EDA project in the neuefische Data Science, Machine Learning & AI Bootcamp. There are 2 notebooks:
+This repo contains the results of the EDA project in the neuefische Data Science, Machine Learning & AI Bootcamp. It consists of 2 notebooks:
 
-1. The EDA notebook itself: https://github.com/jottemka/eda_neuefische/blob/82a769aa8193682e45b5cc63c326e136f3ea55d0/eda_king_county.ipynb
-2. A presentation notebook that was used to generate the corresponding Jupyter slides: https://github.com/jottemka/eda_neuefische/blob/ef8f00f8dba6c665a72b53648f7c0915470c23d3/presentation.ipynb
+1. The EDA notebook itself containing a classical EDA and a client-focused EDA:
+
+    - https://github.com/jottemka/eda_neuefische/blob/82a769aa8193682e45b5cc63c326e136f3ea55d0/eda_king_county.ipynb
+
+2. A presentation notebook that was used to generate the corresponding Jupyter slides for the stakeholder meeting:
+
+    - https://github.com/jottemka/eda_neuefische/blob/ef8f00f8dba6c665a72b53648f7c0915470c23d3/presentation.ipynb
+
+
+## Results
+
+There are 3 interesting data insights that might be contrary to common views:
+
+1. More rooms does mean higher price, but the relationship is not as strong as one might expect.
+
+2. Older houses are not generally cheaper. The correlation is almost zero.
+
+3. Surprisingly, just like agricultural products, house prices exhibit seasonality effects.
+
+Instead of specific buying recommendations, we decided to propose the following methodology to our (fictional) client:
+
+1. Start with most affordable house with at least 3 bedrooms and 2 bathrooms
+
+2. Ask yourself: would you be willing to pay for a neighborhood lower fluctuation?
+
+The least expensive option resulting from this procedure is a house with ID 15796 in Rainier Beach with 5 bedrooms for 133,000 USD.
+
 
 ## Environment Setup
 This repo contains a requirements.txt file with a list of all the packages and dependencies you will need.
