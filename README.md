@@ -11,7 +11,7 @@ This repo contains the results of the EDA project in the neuefische Data Science
     - https://github.com/jottemka/eda_neuefische/blob/ef8f00f8dba6c665a72b53648f7c0915470c23d3/presentation.ipynb
 
 
-## Results
+## Data Insights
 
 There are 3 interesting data insights that might be contrary to common views:
 
@@ -20,6 +20,8 @@ There are 3 interesting data insights that might be contrary to common views:
 2. Older houses are not generally cheaper. The correlation is almost zero.
 
 3. Surprisingly, just like agricultural products, house prices exhibit seasonality effects.
+
+## Client Recommendations
 
 Instead of specific buying recommendations, we decided to propose the following methodology to our (fictional) client:
 
