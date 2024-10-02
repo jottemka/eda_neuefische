@@ -1,5 +1,7 @@
 # EDA Project: King County House Sales 2014-2015
 
+<img src="optional/bellevue_fall_lnb6qm.webp" width="600">
+
 This repo contains the results of the EDA project in the neuefische Data Science, Machine Learning & AI Bootcamp. It consists of 2 notebooks:
 
 1. The EDA notebook itself containing a classical EDA and a client-focused EDA:
