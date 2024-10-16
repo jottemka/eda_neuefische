@@ -1,6 +1,8 @@
 # EDA Project: King County House Sales 2014-2015
 
+<p align="center">  
 <img src="optional/bellevue_fall_lnb6qm.webp" width="600">
+</p>
 
 This repo contains the results of the EDA project in the neuefische Data Science, Machine Learning & AI Bootcamp. It consists of 2 notebooks:
 
@@ -27,11 +29,11 @@ There are 3 interesting data insights that might be contrary to common views:
 
 ### When to buy?
 
-We recommend buying in February and to avoid buying in April:
+We recommend buying in February and to avoid buying in April.
 
 ![alt text](images/seasonality_year.png)
 
-We also recommend buying in the middle of the month and to avoid buying in the beginning of the month:
+We also recommend buying in the middle of the month and to avoid buying in the beginning.
 
 ![alt text](images/seasonality_month.png)
 
@@ -51,8 +53,7 @@ Instead of specific buying recommendations, we decided to propose the following 
 
 The first five result of this procedure are shown in the table below. The least expensive option resulting from this procedure is a house with ID 15796 in Rainier Beach with 5 bedrooms for 133,000 USD. Notice that improving on the neighborhood can mean compromising on other aspects.
 
-<style type="text/css">
-</style>
+<p align="center">
 <table id="T_d4bbd">
   <thead>
     <tr>
@@ -101,7 +102,7 @@ The first five result of this procedure are shown in the table below. The least 
     </tr>
   </tbody>
 </table>
-
+</p>
 
 ## Environment Setup
 This repo contains a requirements.txt file with a list of all the packages and dependencies you will need.
